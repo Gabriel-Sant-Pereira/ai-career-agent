@@ -1,0 +1,76 @@
+EXPERIÊNCIAS PROFISSIONAIS — GABRIEL SANTANA
+
+========================================
+ITAÚ UNIBANCO
+Cargo: Estagiário em Automação e Dados
+Período: Jan/2026 – Atual
+========================================
+
+Contexto:
+Atuação em uma área do setor financeiro com foco em automação, dados, melhoria de processos, indicadores e desenvolvimento de soluções utilizando ferramentas da Microsoft Power Platform e tecnologias de dados.
+
+Principais atividades:
+- Desenvolvimento de análises de dados para apoiar a tomada de decisão.
+- Estruturação, tratamento e integração de bases de dados aplicando conceitos de ETL.
+- Desenvolvimento de dashboards e indicadores para acompanhamento operacional.
+- Automação de processos utilizando Power Platform e SharePoint.
+- Desenvolvimento de soluções utilizando Power Apps e Power Automate.
+- Estruturação e documentação de processos.
+- Atuação com melhoria e automação de atividades manuais.
+- Utilização de dados e indicadores para acompanhamento de processos e identificação de oportunidades de melhoria.
+
+Tecnologias e ferramentas relacionadas:
+Python, SQL, Power BI, Excel, Power Apps, Power Automate, SharePoint, AWS e conceitos de ETL.
+
+Resultados e impacto:
+As atividades têm como objetivo reduzir atividades manuais, melhorar a organização das informações, aumentar a eficiência operacional e facilitar o acompanhamento dos processos por meio de dados e indicadores.
+
+Observação para o agente:
+Não afirmar resultados quantitativos específicos, como percentual de redução de tempo ou economia financeira, caso eles não estejam documentados. Diferenciar claramente experiência profissional de conhecimentos adquiridos em projetos pessoais ou estudos.
+
+
+========================================
+SMS RESISTÊNCIAS ELÉTRICAS
+Cargo: Assistente de Processos Industriais
+Período: Set/2025 – Jan/2026
+========================================
+
+Contexto:
+Atuação em processos industriais com foco em análise de indicadores, dados operacionais e melhoria de processos.
+
+Principais atividades:
+- Análise de indicadores de desempenho industrial.
+- Acompanhamento de OEE, MTBF e MTTR.
+- Desenvolvimento de dashboards.
+- Padronização de dados.
+- Apoio à melhoria de processos.
+- Organização e análise de informações para acompanhamento da operação.
+
+Conhecimentos aplicados:
+Análise de dados, indicadores de desempenho, visualização de dados, Excel e melhoria de processos.
+
+Observação para o agente:
+Não inventar ferramentas, projetos ou resultados que não estejam documentados.
+
+
+========================================
+BAUMINAS
+Cargo: Assistente Administrativo de Manutenção
+Período: Jun/2025 – Set/2025
+========================================
+
+Contexto:
+Atuação administrativa relacionada à área de manutenção, utilizando dados e indicadores para apoiar o acompanhamento dos processos.
+
+Principais atividades:
+- Tratamento de dados.
+- Acompanhamento de indicadores de manutenção.
+- Desenvolvimento de dashboards.
+- Padronização de processos e informações.
+- Organização de dados para apoio à gestão da manutenção.
+
+Conhecimentos aplicados:
+Tratamento e organização de dados, indicadores, dashboards e padronização de processos.
+
+Observação para o agente:
+Não inventar ferramentas específicas ou resultados quantitativos que não estejam documentados.

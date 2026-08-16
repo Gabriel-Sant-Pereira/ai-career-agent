@@ -1,0 +1,125 @@
+PROJETOS — GABRIEL SANTANA
+
+========================================
+HACKATHON ITAÚ — 2º LUGAR
+========================================
+
+Tipo:
+Projeto desenvolvido em hackathon interno do Itaú.
+
+Objetivo:
+Desenvolver uma solução de IA voltada para apoiar o processo de onboarding.
+
+Tecnologias:
+- Microsoft Copilot Studio
+- Power Automate
+- SharePoint
+
+Descrição:
+Foi desenvolvida uma solução utilizando recursos de inteligência artificial e automação para apoiar o processo de onboarding. A solução utilizou o Microsoft Copilot Studio como componente de interação com o usuário, Power Automate para automação de fluxos e SharePoint para armazenamento e organização das informações.
+
+Resultado:
+O projeto recebeu o 2º lugar no hackathon interno do Itaú.
+
+Competências demonstradas:
+- Inteligência Artificial Generativa
+- Automação de processos
+- Microsoft Power Platform
+- Integração entre ferramentas
+- Desenvolvimento de soluções orientadas a problemas de negócio
+
+Regra para o agente:
+Informar que o projeto ficou em 2º lugar quando perguntado sobre conquistas ou projetos relevantes. Não inventar métricas de impacto que não estejam documentadas.
+
+
+========================================
+DETECÇÃO DE FRAUDES BANCÁRIAS
+Status:
+Em andamento
+
+Tipo:
+Projeto pessoal de Machine Learning desenvolvido em Python.
+
+Objetivo:
+Desenvolver um modelo de Machine Learning para identificar transações potencialmente fraudulentas.
+
+Tecnologias e conceitos:
+- Python
+- Pandas
+- NumPy
+- ETL
+- Análise exploratória de dados
+- Engenharia de atributos
+- Machine Learning
+- Precision
+- Recall
+- F1-Score
+- Matriz de Confusão
+
+Etapas do projeto:
+1. Recebimento e tratamento dos dados.
+2. Estruturação do processo de ETL.
+3. Análise exploratória dos dados.
+4. Identificação e tratamento de características relevantes.
+5. Engenharia de atributos.
+6. Treinamento e avaliação de modelos de Machine Learning.
+7. Avaliação utilizando métricas apropriadas para classificação, incluindo Precision, Recall e F1-Score.
+8. Análise da Matriz de Confusão.
+
+Conhecimentos demonstrados:
+- Preparação de dados para Machine Learning.
+- Análise exploratória.
+- Engenharia de atributos.
+- Avaliação de modelos de classificação.
+- Python aplicado a dados.
+- Entendimento da importância de diferentes métricas em problemas de detecção de fraude.
+
+Status:
+O projeto está em desenvolvimento.
+
+Regra para o agente:
+Nunca apresentar esse projeto como experiência profissional. Informar que é um projeto pessoal/em andamento. Não afirmar que o modelo está em produção, que possui determinada acurácia ou que gera economia financeira se essas informações não estiverem documentadas.
+
+
+========================================
+PROJETO AI CAREER AGENT
+Status:
+Em desenvolvimento
+
+Tipo:
+Projeto de portfólio em Inteligência Artificial Generativa.
+
+Objetivo:
+Desenvolver um agente de IA capaz de conversar com recrutadores sobre a experiência profissional, formação, projetos e conhecimentos técnicos de Gabriel, utilizando informações verificadas da sua base de conhecimento.
+
+Arquitetura planejada:
+- Python
+- Google Gemini API
+- RAG
+- Embeddings
+- Vector Database
+- FastAPI
+- AWS
+
+Funcionamento planejado:
+1. Armazenar currículo, experiências e projetos em uma base de conhecimento.
+2. Processar e organizar os documentos.
+3. Recuperar informações relevantes de acordo com a pergunta do recrutador.
+4. Enviar o contexto relevante para o modelo de linguagem.
+5. Gerar uma resposta fundamentada nas informações disponíveis.
+6. Evitar a criação de experiências ou competências que não estejam presentes na base de conhecimento.
+
+Objetivo técnico:
+Demonstrar conhecimentos de Python, integração com APIs de IA, RAG, processamento de documentos, arquitetura de aplicações de IA e posteriormente deploy em ambiente cloud.
+
+Regra para o agente:
+Este projeto é o próprio sistema que está sendo desenvolvido e não deve ser apresentado como uma experiência profissional anterior.
+
+
+========================================
+PROJETOS FUTUROS / EM DESENVOLVIMENTO
+========================================
+
+O agente deve diferenciar projetos concluídos, projetos em andamento e tecnologias que estão sendo estudadas.
+
+Quando uma informação não estiver disponível na base de conhecimento, o agente deve informar que não possui essa informação em vez de inventar uma resposta.

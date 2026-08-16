@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Gabriel Santana — Dados, Automação &amp; Power Platform</title>
+<meta name="description" content="Portfólio de Gabriel Santana: Ciência de Dados, automação e Power Platform. Converse com o agente de IA treinado para responder recrutadores com base em fontes verificadas." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<div id="scrollProgress" class="scroll-progress" aria-hidden="true"></div>
+
+<nav class="nav">
+  <div class="wrap">
+    <div class="nav-brand">
+      <span class="status-dot" aria-hidden="true"></span>
+      <b>GABRIEL SANTANA</b><span>· AI CAREER AGENT</span>
+      <span class="nav-clock" id="navClock" aria-hidden="true"></span>
+    </div>
+    <div class="nav-links">
+      <a href="#sobre">Sobre</a>
+      <a href="#porque">Por que eu</a>
+      <a href="#stack">Stack</a>
+      <a href="#trajetoria">Trajetória</a>
+      <a href="#perguntar">Perguntar à IA</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero" id="sobre">
+  <canvas id="dataCanvas" class="data-canvas" aria-hidden="true"></canvas>
+  <div class="wrap hero-grid">
+    <div>
+      <div class="eyebrow" data-scramble>Olá, eu sou</div>
+      <h1 class="name-gradient">Gabriel Santana</h1>
+      <p class="role-line">Dados · Automação · Power Platform — tecnologia aplicada a problema real.</p>
+      <p class="lede">
+        Estudante de Ciência de Dados com experiência em Analytics, automação e desenvolvimento de soluções orientadas por dados no setor financeiro e industrial. Atuação em análise de dados, ETL, construção de dashboards, Power BI, Python, SQL e AWS (S3, Glue, Athena e QuickSight). Interesse em Machine Learning, IA Generativa e desenvolvimento de soluções analíticas para apoiar a tomada de decisão.
+      </p>
+      <div class="objective-badge">
+        🎯 Buscando: posição em Dados, Power BI ou Automação — CLT ou PJ
+      </div>
+      <div class="hero-actions">
+        <!-- Coloque seu currículo em PDF na pasta frontend/ com esse nome, ou troque o href -->
+        <a href="curriculo-gabriel-santana.pdf" download class="btn btn-primary magnetic">Baixar currículo</a>
+        <a href="#perguntar" class="btn magnetic">Conversar com a IA →</a>
+        <a href="https://linkedin.com/in/gabrielsantanapereira" target="_blank" rel="noopener" class="btn magnetic">LinkedIn</a>
+      </div>
+    </div>
+
+    <div class="portrait-panel spotlight">
+      <!-- Substitua o div .avatar por <img class="avatar-photo" src="sua-foto.jpg" alt="Gabriel Santana"> quando tiver uma foto -->
+      <div class="avatar" aria-hidden="true">GS</div>
+      <div class="portrait-meta">
+        <div class="portrait-name">Gabriel Santana</div>
+        <div class="portrait-role">Ciência de Dados · Suzano/SP</div>
+      </div>
+      <div class="portrait-stats">
+        <div class="stat">
+          <div class="stat-num"><span data-counter data-target="2">0</span>º</div>
+          <div class="stat-label">lugar Hackathon Itaú</div>
+        </div>
+        <div class="stat">
+          <div class="stat-num"><span data-counter data-target="3">0</span></div>
+          <div class="stat-label">blocos de consultoria PJ</div>
+        </div>
+        <div class="stat">
+          <div class="stat-num"><span data-counter data-target="18">0</span>h</div>
+          <div class="stat-label">mentoria Excel entregue</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<section class="values" id="porque">
+  <div class="wrap">
+    <div class="systems-head reveal">
+      <h2>Por que me contratar</h2>
+      <p>O que eu trago pra mesa, além do currículo</p>
+    </div>
+    <div class="value-grid">
+      <div class="value-card spotlight reveal">
+        <div class="value-icon">⚙️</div>
+        <h3>Já resolvo, não só estudo</h3>
+        <p>Atuo no Itaú e atendo clientes freelance ao mesmo tempo em que ainda curso a faculdade — teoria virando entrega desde já.</p>
+      </div>
+      <div class="value-card spotlight reveal">
+        <div class="value-icon">🔗</div>
+        <h3>Da automação ao resultado</h3>
+        <p>Power Platform, SQL, Python e AWS não são só linhas de currículo: é o que uso todo dia pra tirar processo manual do caminho.</p>
+      </div>
+      <div class="value-card spotlight reveal">
+        <div class="value-icon">🏆</div>
+        <h3>Reconhecido por inovar</h3>
+        <p>2º lugar no hackathon interno do Itaú com uma solução de IA para onboarding — proposta, construída e apresentada por mim.</p>
+      </div>
+      <div class="value-card spotlight reveal">
+        <div class="value-icon">🎓</div>
+        <h3>Ensino o que domino</h3>
+        <p>Ministrei mentoria corporativa de Excel para um time inteiro de compras — dominar uma ferramenta é conseguir ensiná-la.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="systems" id="stack">
+  <div class="wrap">
+    <div class="systems-head reveal">
+      <h2>Sistemas conectados</h2>
+      <p>Ferramentas e tecnologias utilizadas no dia a dia</p>
+    </div>
+    <div class="system-groups">
+      <div class="system-group spotlight reveal">
+        <h3>Dados &amp; Analytics</h3>
+        <div class="chip-row">
+          <span class="chip">Python</span>
+          <span class="chip">SQL</span>
+          <span class="chip">Pandas</span>
+          <span class="chip">NumPy</span>
+          <span class="chip">Power BI</span>
+          <span class="chip">Excel Avançado</span>
+        </div>
+      </div>
+      <div class="system-group spotlight reveal">
+        <h3>Automação &amp; Platform</h3>
+        <div class="chip-row">
+          <span class="chip">ETL</span>
+          <span class="chip">Power Apps</span>
+          <span class="chip">Power Automate</span>
+          <span class="chip">SharePoint</span>
+        </div>
+      </div>
+      <div class="system-group spotlight reveal">
+        <h3>Cloud</h3>
+        <div class="chip-row">
+          <span class="chip">AWS S3</span>
+          <span class="chip">AWS Glue</span>
+          <span class="chip">AWS Athena</span>
+          <span class="chip">AWS QuickSight</span>
+          <span class="chip">Git</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="timeline-section" id="trajetoria">
+  <div class="wrap">
+    <h2 class="reveal">Trajetória</h2>
+    <div class="timeline">
+      <div class="trow reveal">
+        <div class="period">Jan/2026 — Atual</div>
+        <div>
+          <h4>Itaú Unibanco</h4>
+          <div class="role">Estagiário em Automação e Dados</div>
+          <p class="desc">Análises de dados e automações para apoiar a tomada de decisão, estruturação de bases via ETL, dashboards de acompanhamento operacional e automação de processos com Power Platform e SharePoint.</p>
+        </div>
+      </div>
+      <div class="trow reveal">
+        <div class="period">Set/2025 — Jan/2026</div>
+        <div>
+          <h4>SMS Resistências Elétricas</h4>
+          <div class="role">Assistente de Processos Industriais</div>
+          <p class="desc">Análise de indicadores industriais (OEE, MTBF, MTTR), desenvolvimento de dashboards, padronização de dados e apoio à melhoria de processos.</p>
+        </div>
+      </div>
+      <div class="trow reveal">
+        <div class="period">Jun/2025 — Set/2025</div>
+        <div>
+          <h4>Bauminas</h4>
+          <div class="role">Assistente Administrativo de Manutenção</div>
+          <p class="desc">Tratamento de dados, acompanhamento de indicadores de manutenção, dashboards e padronização de processos.</p>
+        </div>
+      </div>
+      <div class="trow reveal">
+        <div class="period">Projeto</div>
+        <div>
+          <h4>Hackathon Itaú <span class="badge-2nd">🏆 2º lugar</span></h4>
+          <div class="role">Solução de IA para onboarding</div>
+          <p class="desc">Microsoft Copilot Studio, Power Automate e SharePoint integrados em uma solução de onboarding assistido por IA.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="proof-section">
+  <div class="wrap proof-grid">
+    <div class="reveal">
+      <div class="eyebrow">Prova, não promessa</div>
+      <h2>Não confie na minha palavra — pergunte ao agente.</h2>
+      <p class="lede" style="margin-bottom:0;">
+        Construí um agente de IA que responde sobre minha carreira usando
+        apenas fontes documentadas. Nada de inventar experiência: cada
+        resposta é rastreável até o arquivo que a sustenta. É a prova mais
+        direta de como eu trabalho com dados no dia a dia.
+      </p>
+    </div>
+    <div class="pipeline spotlight reveal">
+      <div class="pipeline-title">Como o agente responde</div>
+      <div class="pipeline-stages">
+        <div class="stage">
+          <div class="stage-node">01</div>
+          <div class="stage-body">
+            <div class="stage-label">Extrair</div>
+            <div class="stage-desc">A pergunta do recrutador é recebida pelo agente.</div>
+          </div>
+        </div>
+        <div class="stage">
+          <div class="stage-node">02</div>
+          <div class="stage-body">
+            <div class="stage-label">Validar</div>
+            <div class="stage-desc">O conteúdo é checado contra a base: currículo, experiências e projetos.</div>
+          </div>
+        </div>
+        <div class="stage">
+          <div class="stage-node">03</div>
+          <div class="stage-body">
+            <div class="stage-label">Responder</div>
+            <div class="stage-desc">A resposta volta com a fonte exata que a fundamenta — ou um aviso de que a informação não existe na base.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="console-section" id="perguntar">
+  <div class="wrap">
+    <div class="console-head reveal">
+      <h2>Converse com o agente</h2>
+      <p>Toda resposta é gerada apenas a partir da base de conhecimento de Gabriel. Se algo não estiver documentado, o agente informa isso em vez de inventar.</p>
+    </div>
+
+    <div class="console reveal">
+      <div class="console-bar">
+        <div class="console-dots"><span></span><span></span><span></span></div>
+        <div class="title">recrutador → <b>consulta.recrutador()</b></div>
+        <div></div>
+      </div>
+
+      <div id="chatLog" class="chat-log">
+        <div class="msg agent">
+          <div class="agent-card">
+            <p>Olá! Sou o AI Career Agent de Gabriel Santana. Posso responder sobre a experiência profissional, formação e projetos dele — com base apenas no que está documentado. O que você gostaria de saber?</p>
+          </div>
+        </div>
+      </div>
+
+      <div id="errorBanner" class="error-banner" style="display:none;"></div>
+
+      <div id="suggestions" class="suggestions"></div>
+
+      <div class="console-input">
+        <span class="prompt-prefix">recrutador$</span>
+        <input id="chatInput" type="text" placeholder="Pergunte sobre experiência, projetos ou stack técnica..." autocomplete="off" />
+        <button id="sendBtn" class="send-btn" aria-label="Enviar pergunta">→</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap footer-row">
+    <div>Suzano/SP · Ciência de Dados · Construído com Python, Flask e Gemini</div>
+    <div class="footer-links">
+      <a href="mailto:gabriel.santpereira25@gmail.com">E-mail</a>
+      <a href="https://linkedin.com/in/gabrielsantanapereira" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

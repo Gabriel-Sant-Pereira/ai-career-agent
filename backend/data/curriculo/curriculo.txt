@@ -1,0 +1,28 @@
+GABRIEL SANTANA
+Estágio em Ciência de Dados | Analytics | Python | AWS
+Suzano/SP • gabriel.santpereira25@gmail.com • (11) 98228-4464 • LinkedIn/GitHub
+RESUMO PROFISSIONAL
+Estudante de Ciência de Dados com experiência em Analytics, automação e desenvolvimento de soluções orientadas por dados no setor financeiro e industrial. Atuação em análise de dados, ETL, construção de dashboards, Power BI, Python, SQL e AWS (S3, Glue, Athena e QuickSight). Interesse em Machine Learning, IA Generativa e desenvolvimento de soluções analíticas para apoiar a tomada de decisão.
+COMPETÊNCIAS TÉCNICAS
+Python • SQL • Pandas • NumPy • ETL • Power BI • Excel Avançado • AWS S3 • AWS Glue • AWS Athena • AWS QuickSight • Power Apps • Power Automate • SharePoint • Data Analytics • Data Visualization • Machine Learning (em desenvolvimento) • Git (básico)
+EXPERIÊNCIA PROFISSIONAL
+Itaú Unibanco | Estagiário em Automação e Dados | Jan/2026 – Atual
+•	Desenvolvimento de análises de dados e automações para apoiar a tomada de decisão.
+•	Estruturação, tratamento e integração de bases de dados aplicando conceitos de ETL.
+•	Desenvolvimento de dashboards e indicadores para acompanhamento operacional.
+•	Automação de processos utilizando Power Platform e SharePoint, contribuindo para ganho de eficiência.
+SMS Resistências Elétricas | Assistente de Processos Industriais | Set/2025 – Jan/2026
+•	Análise de indicadores (OEE, MTBF, MTTR), desenvolvimento de dashboards, padronização de dados e melhoria de processos.
+Bauminas | Assistente Administrativo de Manutenção | Jun/2025 – Set/2025
+•	Tratamento de dados, indicadores de manutenção, dashboards e padronização de processos.
+PROJETOS RELEVANTES
+Hackathon Itaú – 2º Lugar
+•	Desenvolvimento de uma solução de IA para onboarding utilizando Microsoft Copilot Studio, Power Automate e SharePoint. Projeto reconhecido com o 2º lugar no hackathon interno do Itaú.
+Detecção de Fraudes Bancárias (Em andamento)
+•	Projeto de Machine Learning desenvolvido em Python para detecção de transações fraudulentas. Envolve ETL, análise exploratória de dados, engenharia de atributos e avaliação de modelos por Precision, Recall, F1-Score e Matriz de Confusão.
+FORMAÇÃO
+Graduação em Ciência de Dados — Anhanguera Educacional (em andamento)
+CERTIFICAÇÕES
+Python para Análise de Dados • AWS Glue • AWS Athena • AWS QuickSight • Lean Six Sigma White Belt • Power Apps • Power Automate
+IDIOMAS
+Português: Nativo | Inglês: Básico
