@@ -74,3 +74,31 @@ Tratamento e organização de dados, indicadores, dashboards e padronização de
 
 Observação para o agente:
 Não inventar ferramentas específicas ou resultados quantitativos que não estejam documentados.
+
+------------------------------
+NADIR FIGUEIREDO
+------------------------------
+
+Cargo: Assistente Administrativo de Produção
+Período: Abril de 2023 – Setembro de 2024
+
+Principais atividades:
+
+- Apoio ao controle de processos produtivos;
+- Acompanhamento de indicadores e KPIs industriais;
+- Acompanhamento e análise de OEE;
+- Organização e tratamento de dados e relatórios em Excel;
+- Participação em iniciativas de melhoria contínua;
+- Padronização de processos;
+- Suporte às atividades de produção e PCP;
+- Apoio à implantação de indicadores e ferramentas de gestão industrial.
+
+Tecnologias e conhecimentos relacionados:
+
+- Excel
+- Indicadores industriais
+- OEE
+- Análise de dados
+- Gestão de processos
+- Melhoria contínua
+- PCP
