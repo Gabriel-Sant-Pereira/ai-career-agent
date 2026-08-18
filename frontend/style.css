@@ -752,6 +752,7 @@ h1, h2, h3 {
 
 .console-input input {
   flex: 1;
+  min-width: 0;
   background: transparent;
   border: none;
   outline: none;
