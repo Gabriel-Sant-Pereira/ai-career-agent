@@ -47,7 +47,9 @@ MODELOS_FALLBACK = [
     "gemini-3.5-flash",
     "gemini-3.5-flash-lite",
     "gemma-4-31b-it",
-    "gemini-3.6-flash"
+    "gemini-3.6-flash",
+    "gemini-3.7-flash",
+    "gemini-3.1-flash-lite"
 ]
 
 # Códigos HTTP que justificam tentar o próximo modelo da lista:
